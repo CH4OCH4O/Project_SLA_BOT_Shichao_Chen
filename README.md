@@ -275,7 +275,7 @@ AI does not need a separate terminal. The bot calls Gemini automatically when Sl
 
 ## Demo Scenarios
 
-Use [DEMO_CASES.md](DEMO_CASES.md) or [演示流程说明_新版.txt](演示流程说明_新版.txt).
+Use [DEMO_CASES.md](DEMO_CASES.md)
 
 Core scenarios:
 
