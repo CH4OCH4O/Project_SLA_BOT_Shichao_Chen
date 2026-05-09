@@ -1,0 +1,19 @@
+channels:
+  client-bella-beaut:
+    assigned_owner_env: SUPPORT_USER_ID
+    manager_env: MANAGER_USER_ID
+
+  client-corewear:
+    assigned_owner_env: SUPPORT_USER_ID
+    manager_env: MANAGER_USER_ID
+
+roles:
+  customer_users:
+    - CUSTOMER_USER_ID
+
+  internal_users:
+    - SUPPORT_USER_ID
+    - MANAGER_USER_ID
+
+  managers:
+    - MANAGER_USER_ID
